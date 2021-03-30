@@ -7,7 +7,7 @@ language: zh
 timezone: ''
 url: https://a981008.github.io/
 root: /blog/
-theme: icarus
+theme: hexo-theme-icarus
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
